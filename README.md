@@ -164,7 +164,10 @@
 
 <hr>
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](./Snake.svg)
+ 
+![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
+
+
 <hr>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
