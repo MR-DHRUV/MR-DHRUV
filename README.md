@@ -163,8 +163,9 @@
 
 
 <hr>
-## Just a Snake 🐍 Eating away my Contributions...😭
- 
+<h2 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
+<br>
+
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 
 
