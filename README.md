@@ -13,6 +13,11 @@
  </p>
 <hr>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96336775/182628791-b087b139-9d26-4bb2-9479-18f001e91468.png"alt="Spotify" width=100/>       
+</p>
+
+
 [![Spotify](https://mr-dhruv.vercel.app/api/spotify/?background_color=626262)](https://open.spotify.com/user/31tlkctbj2hqyo5whhzdvtwqjoya)
 
  <hr>
