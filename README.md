@@ -11,26 +11,11 @@
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
 
  </p>
+<hr>
+
+[![Spotify](https://mr-dhruv.vercel.app/api/spotify/?background_color=626262)](https://open.spotify.com/user/31tlkctbj2hqyo5whhzdvtwqjoya)
 
  <hr>
-
-
-|T|h|i|n|g|s||I||💚
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | || | | | | | `M`| 
-| |`B`|`A`|`C`|`K`|`E`|`N`| `D` |  |`U` | 
-|`D`| | |`O`| | | | `E`|| `S`|
-|`R`| | |`D`||||`S` || `I`|
-|`I`| | |`E`| || |`I` || `C`|
-|`V`| ||||||`G`|||`G`|`Y`|
-|`I`| | || | | |`N` || | |
-|`N`| | ||`G` || | | | | |
-|`G`||`T`|`R`|`A`|`V`|`E`|`L`|`L`| | |
-|| | ||`M`| | || | |
-|| | | |`E`| | |[📸](https://www.instagram.com/dhruv._0810/)| | 
-|| | ||`S`| | | | | |
-
-<hr>
 
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
 
