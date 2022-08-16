@@ -12,11 +12,6 @@
 
  </p>
 <hr>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/96336775/182628791-b087b139-9d26-4bb2-9479-18f001e91468.png"alt="Spotify" width=100/>       
-</p>
-
 <p align="center">
   <a href="https://spotify-provider.vercel.app/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
@@ -25,8 +20,6 @@
 </p>
 
  <hr>
-
-![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -154,9 +147,10 @@
   </div>
 </div>
 
-
-
 <hr>
+
+![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
+
 <h2 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
 <br>
 
