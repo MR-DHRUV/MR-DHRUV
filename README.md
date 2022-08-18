@@ -47,10 +47,6 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
-  <div style="margin-top:10px" align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-DHRUV&layout=compact)](https://github.com/MR-DHRUV)
-</div>
 </p>
 
 <h3 align="center">Frontend</h3>
