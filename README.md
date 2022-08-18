@@ -47,6 +47,10 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <div style="margin-top:10px" align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-DHRUV&layout=compact)](https://github.com/MR-DHRUV)
+</div>
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -109,6 +113,7 @@
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
+
   <a href="" target="_blank">
     <img  src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> 
   </a>
@@ -126,8 +131,6 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a> 
 </p>
-
-
 
 ----
 
@@ -149,14 +152,58 @@
 
 <hr>
 
+
+
+<h3 align="center">Projects</h3>
+<div style="margin-top:10px" align="center">
+<div style="margin-top:10px" align="center">
+
+<a href="https://github.com/MR-DHRUV/Notify.me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Notify.me" />
+</a>
+<a href="https://github.com/MR-DHRUV/Authify-The-Authentication-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Authify-The-Authentication-API" />
+</a>
+</div>
+<div style="margin-top:10px" align="center">
+
+<a href="https://github.com/MR-DHRUV/Mausam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Mausam"/>
+</a>
+<a href="https://github.com/MR-DHRUV/Tunify-The-Music-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Tunify-The-Music-API" />
+</a>
+</div>
+<div style="margin-top:10px" align="center">
+
+<a href="https://github.com/MR-DHRUV/Shotify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Shotify" />
+</a>
+<a href="https://github.com/MR-DHRUV/linktree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=linktree" />
+</a>
+
+</a>
+</div>
+
+</div>
+
+<hr>
+
+<div style="margin-top:10px" align="center">
+
+
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
+
+
+<hr>
 
 <h2 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
 <br>
 
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 
-
+</div>
 <hr>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
