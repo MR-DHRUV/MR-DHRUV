@@ -5,7 +5,7 @@
 <h3>About Me :</h3>  
  <p>
  👩‍🎓  First year CSE student at USICT, GGSIPU.
-<br>🐱 I'm 18 y/o, go by he/him pronouns.
+<br>🐱 I'm 19 y/o, go by he/him pronouns.
 <br>💫 I’m a MERN stack developer currently learning DSA and AI/ML.
 <br>⭐ Besides all that I love to drive and listen to music, thats why I'm having some tracks for you down here. 
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
