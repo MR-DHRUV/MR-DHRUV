@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Dhruv</h1>
 <h3>About Me :</h3>  
  <p>
- 👩‍🎓  First year CSE student at USICT, GGSIPU.
+ 👩‍🎓  Second year CSE student at USICT, GGSIPU.
 <br>🐱 I'm 19 y/o, go by he/him pronouns.
 <br>💫 I’m a MERN stack developer currently learning DSA and AI/ML.
 <br>⭐ Besides all that I love to drive and listen to music, thats why I'm having some tracks for you down here. 
