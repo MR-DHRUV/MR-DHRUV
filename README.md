@@ -149,50 +149,9 @@
 <hr>
 
 
-
-<h3 align="center">Projects</h3>
-<div style="margin-top:10px" align="center">
-<div style="margin-top:10px" align="center">
-
-<a href="https://github.com/MR-DHRUV/Notify.me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Notify.me" />
-</a>
-<a href="https://github.com/MR-DHRUV/Authify-The-Authentication-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Authify-The-Authentication-API" />
-</a>
-</div>
-<div style="margin-top:10px" align="center">
-
-<a href="https://github.com/MR-DHRUV/Mausam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Mausam"/>
-</a>
-<a href="https://github.com/MR-DHRUV/Tunify-The-Music-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Tunify-The-Music-API" />
-</a>
-</div>
-<div style="margin-top:10px" align="center">
-
-<a href="https://github.com/MR-DHRUV/Shotify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=Shotify" />
-</a>
-<a href="https://github.com/MR-DHRUV/linktree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-DHRUV&repo=linktree" />
-</a>
-
-</a>
-</div>
-
-</div>
-
-<hr>
-
 <div style="margin-top:10px" align="center">
 
 
-![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
-
-
-<hr>
 
 <h2 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
 <br>
@@ -211,4 +170,4 @@
 
 <h2 align='center'>Thank You !!</h2>
 <br>
-<hr>
+
