@@ -8,15 +8,11 @@
 <br>🐱 I'm 19 y/o, go by he/him pronouns.
 <br>💫 I'm a highly skilled web developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
 and Algorithms</strong>.
-<br>⭐ Besides all that I love to drive and listen to music, thats why I'm having some tracks for you down here. 
+<br>⭐ Besides all that I love to drive and listen to music.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
 
  </p>
-<hr>
-<p align="center">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/39d35DN2b1DkxEc2obaXF9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
-
+ 
  <hr>
 
 <h3 align="center">Languages</h3>
