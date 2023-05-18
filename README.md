@@ -1,22 +1,20 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Dhruv</h1>
+<h1 align="center">Hi 👋,&nbsp;I'm Dhruv</h1>
 <h3>About Me :</h3>  
  <p>
- 👩‍🎓  Second year CSE student at USICT, GGSIPU.
+ 👩‍🎓 I'm a Second year CSE student at USICT, GGSIPU.
 <br>🐱 I'm 19 y/o, go by he/him pronouns.
-<br>💫 I’m a MERN stack developer currently learning DSA and AI/ML.
+<br>💫 I'm a highly skilled web developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
+and Algorithms</strong>.
 <br>⭐ Besides all that I love to drive and listen to music, thats why I'm having some tracks for you down here. 
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
 
  </p>
 <hr>
 <p align="center">
-  <a href="https://spotify-provider.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-provider.vercel.app/api/now-playing">
-  </a>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/39d35DN2b1DkxEc2obaXF9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
  <hr>
@@ -65,16 +63,11 @@
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
+  </a>
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="pug"/> 
-  </a>
+  </a> 
+ 
 </p>
 
 <h3 align="center">Backend</h3>
