@@ -32,14 +32,12 @@
   </div>
 </div>
 
-<hr>
+#
 
 
 <div style="margin-top:10px" align="center">
-<h2 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
+<h3 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
 
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 </div>
-<hr>
-
 
