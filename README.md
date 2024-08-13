@@ -17,15 +17,12 @@
 
 ⭐ Besides all, I'm Constantly learning and I'm very interested in Open Source!
 
- 
-<hr>
-<h3 align="center">Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
-  <div>
-       <a href="https://github.com/MR-DHRUV" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
+<h3>Connect with Me :</h3>
+<div style="margin-top:10px" align="start">
+    <a  href="https://mrdhruv.co/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="example"/>
+    </a>
     <a  href="https://www.linkedin.com/in/dhruv-gupta-55034a228/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
@@ -39,14 +36,9 @@
 
 
 <div style="margin-top:10px" align="center">
-
-
-
 <h2 align='center'>Just a Snake 🐍 Eating away my Contributions...😭</h2>
-<br>
 
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
-
 </div>
 <hr>
 
